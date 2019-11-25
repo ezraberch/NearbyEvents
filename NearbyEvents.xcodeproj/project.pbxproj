@@ -19,7 +19,7 @@
 		631B581721DBB041005EED6A /* EventDetailInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631B581121DBB041005EED6A /* EventDetailInteractor.swift */; };
 		631B581A21DBD1FA005EED6A /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 631B581821DBD1FA005EED6A /* Model.xcdatamodeld */; };
 		631B581C21DBD6D5005EED6A /* CoreDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631B581B21DBD6D5005EED6A /* CoreDataStore.swift */; };
-		631B582621DC32F7005EED6A /* README.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 631B582521DC32F7005EED6A /* README.rtf */; };
+		63451EE4238C135000AAA852 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 63451EE3238C135000AAA852 /* README.txt */; };
 		63D0C55221DA8954005F8475 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D0C55121DA8954005F8475 /* AppDelegate.swift */; };
 		63D0C55621DA8954005F8475 /* FavoritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D0C55521DA8954005F8475 /* FavoritesViewController.swift */; };
 		63D0C55921DA8954005F8475 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63D0C55721DA8954005F8475 /* Main.storyboard */; };
@@ -67,7 +67,7 @@
 		631B581121DBB041005EED6A /* EventDetailInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetailInteractor.swift; sourceTree = "<group>"; };
 		631B581921DBD1FA005EED6A /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		631B581B21DBD6D5005EED6A /* CoreDataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStore.swift; sourceTree = "<group>"; };
-		631B582521DC32F7005EED6A /* README.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = README.rtf; sourceTree = "<group>"; };
+		63451EE3238C135000AAA852 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		63D0C54E21DA8954005F8475 /* NearbyEvents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NearbyEvents.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63D0C55121DA8954005F8475 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63D0C55521DA8954005F8475 /* FavoritesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesViewController.swift; sourceTree = "<group>"; };
@@ -134,7 +134,7 @@
 		63D0C54521DA8954005F8475 = {
 			isa = PBXGroup;
 			children = (
-				631B582521DC32F7005EED6A /* README.rtf */,
+				63451EE3238C135000AAA852 /* README.txt */,
 				63D0C55021DA8954005F8475 /* NearbyEvents */,
 				63D0C56721DA8955005F8475 /* NearbyEventsTests */,
 				63D0C57221DA8955005F8475 /* NearbyEventsUITests */,
@@ -342,8 +342,8 @@
 			files = (
 				63D0C55E21DA8955005F8475 /* LaunchScreen.storyboard in Resources */,
 				63D0C55B21DA8955005F8475 /* Assets.xcassets in Resources */,
-				631B582621DC32F7005EED6A /* README.rtf in Resources */,
 				63D0C55921DA8954005F8475 /* Main.storyboard in Resources */,
+				63451EE4238C135000AAA852 /* README.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
